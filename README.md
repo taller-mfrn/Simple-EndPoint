@@ -1,5 +1,5 @@
 # EndPoint simple usando Node, Fastify y PostreSQL
-(by: Álvaro Fuentes)
+
 Los endpoints son las URLs de un API o un backend que responden a una petición.
 Estos no están pensados para interactuar con el usuario final, usualmente sólo devolverán JSON.
 
